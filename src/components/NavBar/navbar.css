@@ -17,7 +17,10 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: 2%;
+    padding: 2%;   
     
-
 }
+ul{
+    list-style-type: none;
+    font-weight: bold;
+} 
